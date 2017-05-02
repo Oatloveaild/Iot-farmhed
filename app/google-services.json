@@ -46,6 +46,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "578952214249-4mh1ukqrl8mibgbkm39574ujrvqe57k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.iot_farmhed",
+            "certificate_hash": "9def176384f0d5e0453b3ebc976f6ee1400837a8"
+          }
+        },
+        {
           "client_id": "578952214249-01jpgfmactd8bbf36chrbvearffs0rtl.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
